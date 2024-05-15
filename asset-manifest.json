@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/travel-journal/static/css/main.4ad0c0a3.css",
+    "main.js": "/travel-journal/static/js/main.393217b9.js",
+    "static/media/grandturk.jpg": "/travel-journal/static/media/grandturk.0e190a4b980df6b8c989.jpg",
+    "static/media/san_juan.jpg": "/travel-journal/static/media/san_juan.807346db1ab782784a72.jpg",
+    "static/media/cozumel.jpg": "/travel-journal/static/media/cozumel.9855b5a534ebf42cce78.jpg",
+    "index.html": "/travel-journal/index.html",
+    "main.4ad0c0a3.css.map": "/travel-journal/static/css/main.4ad0c0a3.css.map",
+    "main.393217b9.js.map": "/travel-journal/static/js/main.393217b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ad0c0a3.css",
+    "static/js/main.393217b9.js"
+  ]
+}
