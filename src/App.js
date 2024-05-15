@@ -1,11 +1,11 @@
 import React from "react";
 import Navbar from "./components/Navbar";
 import MainContent from "./components/MainContent";
-import data from "./data"
+import Data from "./data";
 
 export default function App() {
 
-    const experiences = data.map((item) => {
+    const experiences = Data.map((item) => {
         return (
             <MainContent 
                 key = {item.id}
